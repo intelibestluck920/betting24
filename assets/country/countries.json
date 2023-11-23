@@ -1,0 +1,1333 @@
+{
+    "results": [
+        {
+            "cc": "ad",
+            "name": "Andorra",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ad.svg"
+        },
+        {
+            "cc": "ae",
+            "name": "United Arab Emirates",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ae.svg"
+        },
+        {
+            "cc": "af",
+            "name": "Afghanistan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/af.svg"
+        },
+        {
+            "cc": "ag",
+            "name": "Antigua and Barbuda",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ag.svg"
+        },
+        {
+            "cc": "ai",
+            "name": "Anguilla",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ai.svg"
+        },
+        {
+            "cc": "al",
+            "name": "Albania",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/al.svg"
+        },
+        {
+            "cc": "am",
+            "name": "Armenia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/am.svg"
+        },
+        {
+            "cc": "ao",
+            "name": "Angola",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ao.svg"
+        },
+        {
+            "cc": "aq",
+            "name": "Antarctica",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/aq.svg"
+        },
+        {
+            "cc": "ar",
+            "name": "Argentina",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ar.svg"
+        },
+        {
+            "cc": "as",
+            "name": "American Samoa",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/as.svg"
+        },
+        {
+            "cc": "at",
+            "name": "Austria",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/at.svg"
+        },
+        {
+            "cc": "au",
+            "name": "Australia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/au.svg"
+        },
+        {
+            "cc": "aw",
+            "name": "Aruba",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/aw.svg"
+        },
+        {
+            "cc": "ax",
+            "name": "\\u00c5land Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ax.svg"
+        },
+        {
+            "cc": "az",
+            "name": "Azerbaijan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/az.webp"
+        },
+        {
+            "cc": "ba",
+            "name": "Bosnia & Herzegovina",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ba.svg"
+        },
+        {
+            "cc": "bb",
+            "name": "Barbados",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bb.svg"
+        },
+        {
+            "cc": "bd",
+            "name": "Bangladesh",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bd.svg"
+        },
+        {
+            "cc": "be",
+            "name": "Belgium",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/be.svg"
+        },
+        {
+            "cc": "bf",
+            "name": "Burkina Faso",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bf.svg"
+        },
+        {
+            "cc": "bg",
+            "name": "Bulgaria",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bg.svg"
+        },
+        {
+            "cc": "bh",
+            "name": "Bahrain",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bh.svg"
+        },
+        {
+            "cc": "bi",
+            "name": "Burundi",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bi.svg"
+        },
+        {
+            "cc": "bj",
+            "name": "Benin",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bj.svg"
+        },
+        {
+            "cc": "bl",
+            "name": "Saint Barth\\u00e9lemy",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bl.svg"
+        },
+        {
+            "cc": "bm",
+            "name": "Bermuda",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bm.svg"
+        },
+        {
+            "cc": "bn",
+            "name": "Brunei",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bn.svg"
+        },
+        {
+            "cc": "bo",
+            "name": "Bolivia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bo.svg"
+        },
+        {
+            "cc": "bq",
+            "name": "Caribbean Netherlands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bq.svg"
+        },
+        {
+            "cc": "br",
+            "name": "Brazil",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/br.svg"
+        },
+        {
+            "cc": "bs",
+            "name": "Bahamas",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bs.svg"
+        },
+        {
+            "cc": "bt",
+            "name": "Bhutan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bt.svg"
+        },
+        {
+            "cc": "bv",
+            "name": "Bouvet Island",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bv.svg"
+        },
+        {
+            "cc": "bw",
+            "name": "Botswana",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bw.svg"
+        },
+        {
+            "cc": "by",
+            "name": "Belarus",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/by.svg"
+        },
+        {
+            "cc": "bz",
+            "name": "Belize",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bz.svg"
+        },
+        {
+            "cc": "ca",
+            "name": "Canada",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ca.svg"
+        },
+        {
+            "cc": "cc",
+            "name": "Cocos (Keeling) Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cc.svg"
+        },
+        {
+            "cc": "cd",
+            "name": "Congo - Kinshasa",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cd.svg"
+        },
+        {
+            "cc": "cf",
+            "name": "Central African Republic",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cf.svg"
+        },
+        {
+            "cc": "cg",
+            "name": "Congo - Brazzaville",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cg.svg"
+        },
+        {
+            "cc": "ch",
+            "name": "Switzerland",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ch.svg"
+        },
+        {
+            "cc": "ci",
+            "name": "C\\u00f4te d\\u2019Ivoire",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ci.svg"
+        },
+        {
+            "cc": "ck",
+            "name": "Cook Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ck.svg"
+        },
+        {
+            "cc": "cl",
+            "name": "Chile",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cl.svg"
+        },
+        {
+            "cc": "cm",
+            "name": "Cameroon",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cm.svg"
+        },
+        {
+            "cc": "cn",
+            "name": "China",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cn.svg"
+        },
+        {
+            "cc": "co",
+            "name": "Colombia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/co.svg"
+        },
+        {
+            "cc": "cr",
+            "name": "Costa Rica",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cr.svg"
+        },
+        {
+            "cc": "cu",
+            "name": "Cuba",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cu.svg"
+        },
+        {
+            "cc": "cv",
+            "name": "Cape Verde",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cv.svg"
+        },
+        {
+            "cc": "cw",
+            "name": "Cura\\u00e7ao",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cw.svg"
+        },
+        {
+            "cc": "cx",
+            "name": "Christmas Island",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cx.svg"
+        },
+        {
+            "cc": "cy",
+            "name": "Cyprus",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cy.svg"
+        },
+        {
+            "cc": "cz",
+            "name": "Czech Republic",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/cz.svg"
+        },
+        {
+            "cc": "de",
+            "name": "Germany",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/de.svg"
+        },
+        {
+            "cc": "dj",
+            "name": "Djibouti",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/dj.svg"
+        },
+        {
+            "cc": "dk",
+            "name": "Denmark",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/dk.svg"
+        },
+        {
+            "cc": "dm",
+            "name": "Dominica",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/dm.svg"
+        },
+        {
+            "cc": "do",
+            "name": "Dominican Republic",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/do.svg"
+        },
+        {
+            "cc": "dz",
+            "name": "Algeria",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/dz.svg"
+        },
+        {
+            "cc": "ec",
+            "name": "Ecuador",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ec.svg"
+        },
+        {
+            "cc": "ee",
+            "name": "Estonia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ee.svg"
+        },
+        {
+            "cc": "eg",
+            "name": "Egypt",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/eg.svg"
+        },
+        {
+            "cc": "eh",
+            "name": "Western Sahara",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ec.svg"
+        },
+        {
+            "cc": "er",
+            "name": "Eritrea",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/er.svg"
+
+        },
+        {
+            "cc": "es",
+            "name": "Spain",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/es.svg"
+
+        },
+        {
+            "cc": "et",
+            "name": "Ethiopia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/et.svg"
+
+        },
+        {
+            "cc": "fi",
+            "name": "Finland",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/fi.svg"
+
+        },
+        {
+            "cc": "fj",
+            "name": "Fiji",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/fj.svg"
+        },
+        {
+            "cc": "fk",
+            "name": "Falkland Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/fk.svg"
+
+        },
+        {
+            "cc": "fm",
+            "name": "Micronesia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/fm.svg"
+
+        },
+        {
+            "cc": "fo",
+            "name": "Faroe Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/fo.svg"
+
+        },
+        {
+            "cc": "fr",
+            "name": "France",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/fr.svg"
+
+        },
+        {
+            "cc": "ga",
+            "name": "Gabon",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ga.svg"
+        },
+        {
+            "cc": "gb",
+            "name": "Great Britain",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gb.svg"
+        },
+        {
+            "cc": "gd",
+            "name": "Grenada",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gd.svg"
+        },
+        {
+            "cc": "ge",
+            "name": "Georgia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ge.svg"
+        },
+        {
+            "cc": "gf",
+            "name": "French Guiana",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gf.svg"
+        },
+        {
+            "cc": "gg",
+            "name": "Guernsey",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gg.svg"
+
+        },
+        {
+            "cc": "gh",
+            "name": "Ghana",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gh.svg"
+
+        },
+        {
+            "cc": "gi",
+            "name": "Gibraltar",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gi.svg"
+
+        },
+        {
+            "cc": "gl",
+            "name": "Greenland",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gl.svg"
+
+        },
+        {
+            "cc": "gm",
+            "name": "Gambia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gm.svg"
+
+        },
+        {
+            "cc": "gn",
+            "name": "Guinea",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gn.svg"
+
+        },
+        {
+            "cc": "gp",
+            "name": "Guadeloupe",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gp.svg"
+
+        },
+        {
+            "cc": "gq",
+            "name": "Equatorial Guinea",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gq.svg"
+
+        },
+        {
+            "cc": "gr",
+            "name": "Greece",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gr.svg"
+
+        },
+        {
+            "cc": "gs",
+            "name": "South Georgia & South Sandwich Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gs.svg"
+
+        },
+        {
+            "cc": "gt",
+            "name": "Guatemala",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gt.svg"
+
+        },
+        {
+            "cc": "gu",
+            "name": "Guam",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gu.svg"
+
+        },
+        {
+            "cc": "gw",
+            "name": "Guinea-Bissau",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gw.svg"
+
+        },
+        {
+            "cc": "gy",
+            "name": "Guyana",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/gy.svg"
+
+        },
+        {
+            "cc": "hk",
+            "name": "Hong Kong SAR China",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/hk.svg"
+
+        },
+        {
+            "cc": "hm",
+            "name": "Heard & McDonald Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/hm.svg"
+
+        },
+        {
+            "cc": "hn",
+            "name": "Honduras",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/hn.svg"
+
+        },
+        {
+            "cc": "hr",
+            "name": "Croatia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/hr.svg"
+
+        },
+        {
+            "cc": "ht",
+            "name": "Haiti",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ht.svg"
+
+        },
+        {
+            "cc": "hu",
+            "name": "Hungary",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/hu.svg"
+
+        },
+        {
+            "cc": "id",
+            "name": "Indonesia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/id.svg"
+
+        },
+        {
+            "cc": "ie",
+            "name": "Ireland",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ie.svg"
+
+        },
+        {
+            "cc": "il",
+            "name": "Israel",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/il.svg"
+
+        },
+        {
+            "cc": "im",
+            "name": "Isle of Man",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/im.svg"
+
+        },
+        {
+            "cc": "in",
+            "name": "India",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/in.svg"
+
+        },
+        {
+            "cc": "io",
+            "name": "British Indian Ocean Territory",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/io.svg"
+        },
+        {
+            "cc": "iq",
+            "name": "Iraq",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/iq.svg"
+
+        },
+        {
+            "cc": "ir",
+            "name": "Iran",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ir.svg"
+
+        },
+        {
+            "cc": "is",
+            "name": "Iceland",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/is.svg"
+
+        },
+        {
+            "cc": "it",
+            "name": "Italy",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/it.svg"
+
+        },
+        {
+            "cc": "je",
+            "name": "Jersey",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/je.svg"
+
+        },
+        {
+            "cc": "jm",
+            "name": "Jamaica",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/jm.svg"
+
+        },
+        {
+            "cc": "jo",
+            "name": "Jordan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/jo.svg"
+
+        },
+        {
+            "cc": "jp",
+            "name": "Japan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/jp.svg"
+
+        },
+        {
+            "cc": "ke",
+            "name": "Kenya",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ke.svg"
+
+        },
+        {
+            "cc": "kg",
+            "name": "Kyrgyzstan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/kg.svg"
+
+        },
+        {
+            "cc": "kh",
+            "name": "Cambodia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/kh.svg"
+
+        },
+        {
+            "cc": "ki",
+            "name": "Kiribati",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ki.svg"
+
+        },
+        {
+            "cc": "km",
+            "name": "Comoros",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/km.svg"
+
+        },
+        {
+            "cc": "kn",
+            "name": "Saint Kitts and Nevis",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/kn.svg"
+
+        },
+        {
+            "cc": "kp",
+            "name": "North Korea",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/kp.svg"
+
+        },
+        {
+            "cc": "kr",
+            "name": "South Korea",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/kr.svg"
+
+        },
+        {
+            "cc": "kw",
+            "name": "Kuwait",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/kw.svg"
+
+        },
+        {
+            "cc": "ky",
+            "name": "Cayman Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ky.svg"
+
+        },
+        {
+            "cc": "kz",
+            "name": "Kazakhstan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/kz.svg"
+
+        },
+        {
+            "cc": "la",
+            "name": "Laos",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/la.svg"
+
+        },
+        {
+            "cc": "lb",
+            "name": "Lebanon",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/lb.svg"
+
+        },
+        {
+            "cc": "lc",
+            "name": "Saint Lucia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/lc.svg"
+
+        },
+        {
+            "cc": "li",
+            "name": "Liechtenstein",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/li.svg"
+
+        },
+        {
+            "cc": "lk",
+            "name": "Sri Lanka",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/lk.svg"
+
+        },
+        {
+            "cc": "lr",
+            "name": "Liberia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/lr.svg"
+
+        },
+        {
+            "cc": "ls",
+            "name": "Lesotho",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ls.svg"
+
+        },
+        {
+            "cc": "lt",
+            "name": "Lithuania",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/lt.svg"
+
+        },
+        {
+            "cc": "lu",
+            "name": "Luxembourg",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/lu.svg"
+
+        },
+        {
+            "cc": "lv",
+            "name": "Latvia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/lv.svg"
+
+        },
+        {
+            "cc": "ly",
+            "name": "Libya",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ly.svg"
+
+        },
+        {
+            "cc": "ma",
+            "name": "Morocco",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ma.svg"
+
+        },
+        {
+            "cc": "mc",
+            "name": "Monaco",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mc.svg"
+
+        },
+        {
+            "cc": "md",
+            "name": "Moldova",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/md.svg"
+
+        },
+        {
+            "cc": "me",
+            "name": "Montenegro",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/me.svg"
+
+        },
+        {
+            "cc": "mf",
+            "name": "Saint Martin",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mf.svg"
+
+        },
+        {
+            "cc": "mg",
+            "name": "Madagascar",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mg.svg"
+
+        },
+        {
+            "cc": "mh",
+            "name": "Marshall Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mh.svg"
+
+        },
+        {
+            "cc": "mk",
+            "name": "Macedonia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mk.svg"
+
+        },
+        {
+            "cc": "ml",
+            "name": "Mali",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ml.svg"
+
+        },
+        {
+            "cc": "mm",
+            "name": "Myanmar (Burma)",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mm.svg"
+        },
+        {
+            "cc": "mn",
+            "name": "Mongolia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mn.svg"
+        },
+        {
+            "cc": "mo",
+            "name": "Macau SAR China",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mo.svg"
+        },
+        {
+            "cc": "mp",
+            "name": "Northern Mariana Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mp.svg"
+        },
+        {
+            "cc": "mq",
+            "name": "Martinique",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mq.svg"
+        },
+        {
+            "cc": "mr",
+            "name": "Mauritania",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mr.svg"
+        },
+        {
+            "cc": "ms",
+            "name": "Montserrat",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ms.svg"
+        },
+        {
+            "cc": "mt",
+            "name": "Malta",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mt.svg"
+        },
+        {
+            "cc": "mu",
+            "name": "Mauritius",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mu.svg"
+        },
+        {
+            "cc": "mv",
+            "name": "Maldives",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mv.svg"
+        },
+        {
+            "cc": "mw",
+            "name": "Malawi",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mw.svg"
+        },
+        {
+            "cc": "mx",
+            "name": "Mexico",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mx.svg"
+        },
+        {
+            "cc": "my",
+            "name": "Malaysia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/my.svg"
+        },
+        {
+            "cc": "mz",
+            "name": "Mozambique",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/mz.svg"
+        },
+        {
+            "cc": "na",
+            "name": "Namibia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/na.svg"
+        },
+        {
+            "cc": "nc",
+            "name": "New Caledonia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/nc.svg"
+        },
+        {
+            "cc": "ne",
+            "name": "Niger",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ne.svg"
+        },
+        {
+            "cc": "nf",
+            "name": "Norfolk Island",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/nf.svg"
+        },
+        {
+            "cc": "ng",
+            "name": "Nigeria",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ng.svg"
+        },
+        {
+            "cc": "ni",
+            "name": "Nicaragua",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ni.svg"
+        },
+        {
+            "cc": "nl",
+            "name": "Netherlands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/nl.svg"
+        },
+        {
+            "cc": "no",
+            "name": "Norway",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/no.svg"
+        },
+        {
+            "cc": "np",
+            "name": "Nepal",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/np.svg"
+        },
+        {
+            "cc": "nr",
+            "name": "Nauru",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/nr.svg"
+        },
+        {
+            "cc": "nu",
+            "name": "Niue",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/nu.svg"
+        },
+        {
+            "cc": "nz",
+            "name": "New Zealand",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/nz.svg"
+        },
+        {
+            "cc": "om",
+            "name": "Oman",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/om.svg"
+        },
+        {
+            "cc": "pa",
+            "name": "Panama",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pa.svg"
+        },
+        {
+            "cc": "pe",
+            "name": "Peru",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pe.svg"
+        },
+        {
+            "cc": "pf",
+            "name": "French Polynesia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pf.svg"
+        },
+        {
+            "cc": "pg",
+            "name": "Papua New Guinea",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pg.svg"
+        },
+        {
+            "cc": "ph",
+            "name": "Philippines",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ph.svg"
+        },
+        {
+            "cc": "pk",
+            "name": "Pakistan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pk.svg"
+        },
+        {
+            "cc": "pl",
+            "name": "Poland",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pl.svg"
+        },
+        {
+            "cc": "pm",
+            "name": "Saint Pierre and Miquelon",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pm.svg"
+        },
+        {
+            "cc": "pn",
+            "name": "Pitcairn Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pn.svg"
+        },
+        {
+            "cc": "pr",
+            "name": "Puerto Rico",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pr.svg"
+        },
+        {
+            "cc": "ps",
+            "name": "Palestinian Territories",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ps.svg"
+        },
+        {
+            "cc": "pt",
+            "name": "Portugal",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pt.svg"
+        },
+        {
+            "cc": "pw",
+            "name": "Palau",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/pw.svg"
+        },
+        {
+            "cc": "py",
+            "name": "Paraguay",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/py.svg"
+        },
+        {
+            "cc": "qa",
+            "name": "Qatar",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/qa.svg"
+        },
+        {
+            "cc": "re",
+            "name": "R\\u00e9union",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/re.svg"
+        },
+        {
+            "cc": "ro",
+            "name": "Romania",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ro.svg"
+        },
+        {
+            "cc": "rs",
+            "name": "Serbia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/rs.svg"
+        },
+        {
+            "cc": "ru",
+            "name": "Russia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ru.svg"
+        },
+        {
+            "cc": "rw",
+            "name": "Rwanda",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/rw.svg"
+        },
+        {
+            "cc": "sa",
+            "name": "Saudi Arabia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sa.svg"
+        },
+        {
+            "cc": "sb",
+            "name": "Solomon Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sb.svg"
+        },
+        {
+            "cc": "sc",
+            "name": "Seychelles",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sc.svg"
+        },
+        {
+            "cc": "sd",
+            "name": "Sudan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sd.svg"
+        },
+        {
+            "cc": "se",
+            "name": "Sweden",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/se.svg"
+        },
+        {
+            "cc": "sg",
+            "name": "Singapore",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sg.svg"
+        },
+        {
+            "cc": "sh",
+            "name": "Saint Helena",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sh.svg"
+        },
+        {
+            "cc": "si",
+            "name": "Slovenia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/si.svg"
+        },
+        {
+            "cc": "sj",
+            "name": "Svalbard and Jan Mayen",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sj.svg"
+        },
+        {
+            "cc": "sk",
+            "name": "Slovakia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sk.svg"
+        },
+        {
+            "cc": "sl",
+            "name": "Sierra Leone",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sl.svg"
+        },
+        {
+            "cc": "sm",
+            "name": "San Marino",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sm.svg"
+        },
+        {
+            "cc": "sn",
+            "name": "Senegal",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sn.svg"
+        },
+        {
+            "cc": "so",
+            "name": "Somalia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/so.svg"
+        },
+        {
+            "cc": "sr",
+            "name": "Suriname",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sr.svg"
+        },
+        {
+            "cc": "ss",
+            "name": "South Sudan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ss.svg"
+        },
+        {
+            "cc": "st",
+            "name": "S\\u00e3o Tom\\u00e9 and Pr\\u00edncipe",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/st.svg"
+        },
+        {
+            "cc": "sv",
+            "name": "El Salvador",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sv.svg"
+        },
+        {
+            "cc": "sx",
+            "name": "Sint Maarten",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sx.svg"
+        },
+        {
+            "cc": "sy",
+            "name": "Syria",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sy.svg"
+        },
+        {
+            "cc": "sz",
+            "name": "Swaziland",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/sz.svg"
+        },
+        {
+            "cc": "tc",
+            "name": "Turks and Caicos Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tc.svg"
+        },
+        {
+            "cc": "td",
+            "name": "Chad",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/td.svg"
+        },
+        {
+            "cc": "tf",
+            "name": "French Southern Territories",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tf.svg"
+        },
+        {
+            "cc": "tg",
+            "name": "Togo",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tg.svg"
+        },
+        {
+            "cc": "th",
+            "name": "Thailand",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/th.svg"
+        },
+        {
+            "cc": "tj",
+            "name": "Tajikistan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tj.svg"
+        },
+        {
+            "cc": "tk",
+            "name": "Tokelau",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tk.svg"
+        },
+        {
+            "cc": "tl",
+            "name": "Timor-Leste",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tl.svg"
+        },
+        {
+            "cc": "tm",
+            "name": "Turkmenistan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tm.svg"
+        },
+        {
+            "cc": "tn",
+            "name": "Tunisia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tn.svg"
+        },
+        {
+            "cc": "to",
+            "name": "Tonga",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/to.svg"
+        },
+        {
+            "cc": "tr",
+            "name": "Turkey",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/bs.svg"
+        },
+        {
+            "cc": "tt",
+            "name": "Trinidad and Tobago",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tt.svg"
+        },
+        {
+            "cc": "tv",
+            "name": "Tuvalu",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tv.svg"
+        },
+        {
+            "cc": "tw",
+            "name": "Taiwan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tw.svg"
+        },
+        {
+            "cc": "tz",
+            "name": "Tanzania",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/tz.svg"
+        },
+        {
+            "cc": "ua",
+            "name": "Ukraine",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ua.svg"
+        },
+        {
+            "cc": "ug",
+            "name": "Uganda",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ug.svg"
+        },
+        {
+            "cc": "um",
+            "name": "U.S. Outlying Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/um.svg"
+        },
+        {
+            "cc": "us",
+            "name": "USA",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/us.svg"
+        },
+        {
+            "cc": "uy",
+            "name": "Uruguay",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/uy.svg"
+        },
+        {
+            "cc": "uz",
+            "name": "Uzbekistan",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/uz.svg"
+        },
+        {
+            "cc": "va",
+            "name": "Vatican City",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/va.svg"
+        },
+        {
+            "cc": "vc",
+            "name": "St. Vincent & Grenadines",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/vc.svg"
+        },
+        {
+            "cc": "ve",
+            "name": "Venezuela",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ve.svg"
+        },
+        {
+            "cc": "vg",
+            "name": "British Virgin Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/vg.svg"
+        },
+        {
+            "cc": "vi",
+            "name": "U.S. Virgin Islands",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/vi.svg"
+        },
+        {
+            "cc": "vn",
+            "name": "Vietnam",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/vn.svg"
+        },
+        {
+            "cc": "vu",
+            "name": "Vanuatu",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/vu.svg"
+        },
+        {
+            "cc": "wf",
+            "name": "Wallis and Futuna",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/wf.svg"
+        },
+        {
+            "cc": "ws",
+            "name": "Samoa",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ws.svg"
+        },
+        {
+            "cc": "xk",
+            "name": "Kosovo",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/xk.svg"
+        },
+        {
+            "cc": "ye",
+            "name": "Yemen",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/ye.svg"
+        },
+        {
+            "cc": "yt",
+            "name": "Mayotte",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/yt.svg"
+        },
+        {
+            "cc": "za",
+            "name": "South Africa",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/za.svg"
+        },
+        {
+            "cc": "zm",
+            "name": "Zambia",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/zm.svg"
+        },
+        {
+            "cc": "zw",
+            "name": "Zimbabwe",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/zw.svg"
+
+        },
+         {
+            "cc": "eu",
+            "name": "Europe",
+            "image_path": "https:\/\/recasino.io\/assets\/uploads\/countryIcon\/eu.svg"
+            
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+<?php echo $__env->make($theme.'errors.419', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH /home/u428797525/domains/recasino.io/public_html/resources/views/errors/419.blade.php ENDPATH**/ ?>
